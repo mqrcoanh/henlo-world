@@ -1,2 +1,2 @@
 # henlo-world
-my fist github repository
+my first github repository
